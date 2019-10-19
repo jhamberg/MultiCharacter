@@ -9,5 +9,5 @@ TODO:
 - Additional localization
 - Passwords
 
--- 
+---
 (C) Jonatan Hamberg - 2019
