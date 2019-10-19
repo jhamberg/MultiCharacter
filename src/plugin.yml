@@ -1,0 +1,12 @@
+name: MultiUserTeleport
+version: 0.1
+author: Jonatan Hamberg
+main: hamberg.MultiUserTeleport
+api-version: 1.14
+commands:
+  vaihda:
+      description: Vaihda pelaajaa
+      usage: /vaihda <nimi> <salasana>
+  kuka:
+      description: Kerro kuka pelaa tällä käyttäjällä
+      usage: /kuka
